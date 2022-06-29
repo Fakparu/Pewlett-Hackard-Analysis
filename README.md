@@ -17,4 +17,4 @@ Key insights from the above are
 Summary
 •	There are 7 roles (or titles) that you have retiring employees, which will need to be filled. 
 •	There is a total of 50,842 senior engineers and senior staff that are retiring employees. This number is more than enough employees to mentor the 1,549 employees eligible for mentorship. 
-![image](https://user-images.githubusercontent.com/105121697/176355691-6295eb0c-5034-4c9c-bcdd-692f3a4695b2.png)
+
